@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  ThunderDev
+
+  Created by Rob Baltzer on 5/11/12.
+  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+*/
+
+"THUNDER" = "Thunder";
+"REVISION" = "Revision";
+"IPAD" = "iPad";
+"AUTO" = "Auto";
+"BATTERY_CHARGING_PREFERENCE" = "Battery Charging Preference";
+"SOUND_PROCESSING" = "Sound Processing";
+"AUTO_SELECT" = "Auto Select";
+"MOVIE_MODE" = "Movie Mode";
+"GAMING_MODE" = "Gaming Mode";
+"MOVIE_MODE" = "Movie Mode";
+"MUSIC_MODE" = "Music Mode";
+"RECOMMENDED" = "(Recommended)";
+"UNKNOWN" = "?";
+
+// UITabbar Items
+"HOME" = "Home";
+"PROMO" = "Promo";
+"ABOUT" = "About";

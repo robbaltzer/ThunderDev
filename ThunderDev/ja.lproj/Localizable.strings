@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  ThunderDev
+
+  Created by Rob Baltzer on 5/11/12.
+  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+*/
+
+"THUNDER" = "雷鳴";
+"REVISION" = "リビジョン";
+"IPAD" = "アプリ";
+"AUTO" = "自動";
+"BATTERY_CHARGING_PREFERENCE" = "バッテリの充電優先";
+"SOUND_PROCESSING" = "サウンド処理";
+"AUTO_SELECT" = "自動選択";
+"GAMING_MODE" = "ゲームモード";
+"MOVIE_MODE" = "ムービーモード";
+"MUSIC_MODE" = "音楽モード";
+"RECOMMENDED" = "（推奨）";
+"UNKNOWN" = "未知の";
+
+// UITabbar Items
+"HOME" = "家";
+"PROMO" = "促進";
+"ABOUT" = "約";
